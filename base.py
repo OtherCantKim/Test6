@@ -15,4 +15,5 @@ def upstream_commit():
 upstream_commit()
 sys.exit()
 
-upstream_commit()
+# comment this out
+# upstream_commit()
