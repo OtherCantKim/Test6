@@ -11,9 +11,13 @@ def upstream_commit():
 
 	pass
 
+# This isn't going to work right
 
-upstream_commit()
-sys.exit()
+# upstream_commit()
+# sys.exit()
+ 
+if __name__ == '__main__':
+    print('hi')
 
 # comment this out
 # upstream_commit()
